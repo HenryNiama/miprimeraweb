@@ -1,13 +1,12 @@
-# Welcome to your Jupyter Book
+# HENRY NIAMA
 
-This is a small sample book to give you a feel for how book content is
-structured.
+Creando primera p'agina web estatica con jupyter desde Linux.
 
 :::{note}
-Here is a note!
+Desarrollo de Plataformas Web
 :::
 
-And here is a code block:
+Sexto Semestre
 
 ```
 e = mc^2
