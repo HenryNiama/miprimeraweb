@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Henry Niama
-author: Web Est'atica con Jupyter
+author: Web Estatica con Jupyter
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
